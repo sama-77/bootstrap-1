@@ -1,0 +1,184 @@
+*
+{
+    box-sizing: border-box;
+    
+}
+
+
+.jost {
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.line,
+.line1
+{
+    height: 1px;
+    width: 150px;
+    margin-left: 25px;
+    position: relative;
+    background-color: #afb9cb;
+   
+}
+input
+{
+    border-style: solid;
+}
+.icons i,
+h5 i
+{
+    background-color: #eff2f8;
+    color: #37517e;
+    
+}
+.icons i::before
+{
+padding: 3px;
+    
+}
+.line1
+{
+    width: 40px;
+}
+.progress-bar,
+.foot
+
+{
+    background-color: #37517e;
+}
+.home2,
+.n4
+{
+    background-color:  #f3f5fa;
+}
+.home2-p .s2,
+h5,
+.cr i,
+.cr span
+{
+    font-family:"Jost", sans-serif ;
+    color: #37517e;
+}
+.home2-p span,
+.cardd span
+{
+    font-family:"Jost", sans-serif ;
+    color: #37517e;
+}
+.line::after
+{
+    content: "";
+    position: absolute;
+    height: 4px;
+    width: 50px;
+    bottom: -1px;
+    background-color:#0dcaf0 ;
+}
+.accordion-button:not(.collapsed) 
+{
+    background-color: white;
+    box-shadow: 0px 0px;
+    color: #0dcaf0
+}
+
+.layer
+{
+    background-color: #1c3262d4;
+}
+.btt
+{
+    color:#686768;
+    border: 0;
+}
+.in
+{
+    color: #0dcaf0 !important;
+}
+.btt:hover,
+.btn-outline-primary:hover
+{
+    background-color:#0dcaf0 !important;
+     color: white;
+}
+.zz:hover
+{
+    border-top: 4px solid #0dcaf0 !important;
+   
+}
+.background
+{
+    background-image: url(../images/cta-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 50vh;
+    
+}
+h2,
+p i
+{
+    color: #37517e;
+    font-family:"Jost", sans-serif ;
+    
+}
+p
+{
+    color: #686768;
+     
+}
+.navbar
+{
+    background-color: #37517e;
+}
+.home
+{
+background-color: #37517e;
+font-family: "Jost", sans-serif;
+}
+.logo
+{
+    font-family: "Jost", sans-serif;
+}
+.home p
+{
+    color: #afb9cb;
+    font-family: "Jost", sans-serif;
+}
+.gi img
+{
+    filter: grayscale(100%)
+}
+.nav2
+{
+    background-color: #f3f5fa;
+}
+.gi img:hover
+{
+    filter: grayscale(0%)
+}
+.nav-item a:hover 
+{
+    color:#0dcaf0
+}
+.nav-item .nav-link
+{
+    color:white
+}
+.icons.mt-2.d-flex.justify-content-between.w-50
+{
+    height: 25px;
+}
+.linkf:hover
+{
+margin-left: 10px;
+
+}
+.linkf
+{
+    transition-duration: 1s;
+   
+}
+i:hover 
+{
+    font-size: large;
+   
+}
